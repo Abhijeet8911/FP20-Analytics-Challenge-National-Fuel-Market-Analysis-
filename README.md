@@ -1,10 +1,12 @@
-# FP20-Analytics-Challenge-National-Fuel-Market-Analysis-
+# FP20-Analytics-Challenge-National-Fuel-Market-Analysis
 This BI dashboard majorly focuses on identifying average prices across provinces tracking changes in fuel prices over time and analyzing company performance.
 Key areas of exploration include <br />
 •	Revenue generation <br />
 •	Sales trends <br />
 •	Pricing differentials between regions, and shifts in product popularity. <br />
-Through a detailed examination of sales data and market dynamics, the dashboard offers valuable insights into the fuel industry landscape, aiding stakeholders in strategic decision-making and market understanding.
+Through a detailed examination of sales data and market dynamics, the dashboard offers valuable insights into the fuel industry landscape, aiding stakeholders in strategic decision-making and market understanding.<br />
+
+Power BI report interaction: https://www.novypro.com/project/national-fuel-analytic-dashboard   
 
 ![SS](https://github.com/Abhijeet8911/FP20-Analytics-Challenge-National-Fuel-Market-Analysis-/assets/88017168/80ab03b5-a6e3-49d2-b99d-e278c7c59541)
 ![SS2](https://github.com/Abhijeet8911/FP20-Analytics-Challenge-National-Fuel-Market-Analysis-/assets/88017168/42939cf1-878c-4101-b809-bef0c4788885)
