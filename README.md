@@ -6,6 +6,10 @@ Key areas of exploration include <br />
 •	Pricing differentials between regions, and shifts in product popularity. <br />
 Through a detailed examination of sales data and market dynamics, the dashboard offers valuable insights into the fuel industry landscape, aiding stakeholders in strategic decision-making and market understanding.
 
+![SS](https://github.com/Abhijeet8911/FP20-Analytics-Challenge-National-Fuel-Market-Analysis-/assets/88017168/80ab03b5-a6e3-49d2-b99d-e278c7c59541)
+![SS2](https://github.com/Abhijeet8911/FP20-Analytics-Challenge-National-Fuel-Market-Analysis-/assets/88017168/42939cf1-878c-4101-b809-bef0c4788885)
+
+
 ▶️1. What is the average price of Gasoil Grade 2 across all provinces?<br />
 🟢  317.80 is the Average price of Gasoil Grade 2 across all provinces.
 
